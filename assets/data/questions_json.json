@@ -1,0 +1,156 @@
+[
+  
+  {
+    "id": "1",
+    "category":"PHRASAL VERBS",
+    "type": 2,
+    "type-des": "complete-sentence",
+    "text": "Oh, don't pay attention to me, ------ [to continue] your conversation, please",
+    "options": ["carry", "up", "down", "back", "calm","on"],
+    "answer": "carry on",
+    "explaniation": "Phrasal verb 'to carry on' means 'to go on or continue with something'"
+  },
+  {
+    "id": "2",
+    "category":"ARTICLES",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "It has been announced that ---- Pope is going to visit Warsaw",
+    "options": ["an", "-", "a", "the"],
+    "answer": "the",
+    "explaniation": "It's correct to see The Pope"
+  },
+  {
+    "id": "3",
+    "category":"CONFUSING WORDS",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "My neighbors ------ a terrible noise every evening.",
+    "options": ["make", "give", "take", "do"],
+    "answer": "make",
+    "explaniation": "We say 'to make a noise'."
+  },
+
+  {
+    "id": "4",
+    "category":"WORD FORMATION",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "Use a prefix to make a word negative: competent",
+    "options": ["incompetent", "uncompetent", "imcompetent", "discompetent"],
+    "answer": "incompetent",
+    "explaniation": "We say 'competent- imcompetent'."
+  },
+  {
+    "id": "5",
+    "category":"IRREGULAR VERBS",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "Choose two forms of the verb 'to tear' according to the order: Past Simple - Past Participle",
+    "options": ["teared - teared", "tored - torned", "tore - torn", "tored - tored"],
+    "answer": "tore - torn",
+    "explaniation": "TO TEAR - TORE - TORN"
+  },
+  {
+    "id": "6",
+    "category":"PAST TENSES",
+    "type": 2,
+    "type-des": "complete-sentence",
+    "text": "Benjamin _____ [to watch] a movie before Alison _____ [to come] in.",
+    "options": ["Was","watching","came","had","been","coming" ],
+    "answer": "had been watching came",
+    "explaniation": "Past Perfect Continuous emphasizes the duration of action  before another action or situation in the past"
+  },
+  {
+    "id": "7",
+    "category":"PREPOSITION",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "She always stands out for what she belives __",
+    "options": ["at", "to", "for","in"],
+    "answer": "in",
+    "explaniation": "It is correct to say 'believe in'"
+  },
+  {
+    "id": "8",
+    "category":"ADJECTIVE PLUS PREPOSITION",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "Her husband was accused __ cheating with 26-year-old model.",
+    "options": ["at", "of", "with","for"],
+    "answer": "of",
+    "explaniation": "Some adjectives are used with specific preposit'"
+  },
+  {
+    "id": "9",
+    "category":"NOUNS",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "I think we should move our [a ski] to garage.",
+    "options": ["skies", "skiis", "skis","skiys"],
+    "answer": "skis",
+    "explaniation": "The right pluar form of the noun 'ski' is 'skis'"
+  },
+  {
+    "id": "10",
+    "category":"CONFUSING WORDS",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "British scientists have finally _____ important research.",
+    "options": ["made", "done", "taken","given"],
+    "answer": "done",
+    "explaniation": "We say 'to do research'"
+  },
+  {
+    "id": "11",
+    "category":"PHRASAL VERBS",
+    "type": 2,
+    "type-des": "complete-sentence",
+    "text": "Patrick was so loud and noisy in the morning that I had to get up and _____ [to critize somebody angrily]",
+    "options": ["chew","him", "out","figure","turn","get","along","with"],
+    "answer": "chew him out",
+    "explaniation": "Phrasal verb 'to chew him out' means 'to criticize somebody angrily'"
+  },
+  
+  {
+    "id": "12",
+    "category":"IRREGULAR VERBS",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "Choose two forms of the verb 'to wring' according to the order: Past Simple - Past Participle",
+    "options": ["wrung - wrung", "wrong - wrung", "wringen - wronge","wringed - wringed"],
+    "answer": "wrung - wrung",
+    "explaniation": "TO WRING - WRUNG - WRUNG"
+  },
+  {
+    "id": "13",
+    "category":"LINKING WORDS",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "These two vases look rather similar, _____ they are the same shape and color",
+    "options": ["as soon as", "inasmuch as","henceforth","likewise"],
+    "answer": "inasmuch as",
+    "explaniation": "'Inasmuch as' is used to add a comment with more details, explain something more clearly."
+  },
+  {
+    "id": "14",
+    "category":"ADJECTIVEs",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "The video of accident was -------.",
+    "options": ["creaditable", "edifing","dreadful","alluring"],
+    "answer": "dreadful",
+    "explaniation": "'Dreadful' means 'terriable, schoking,"
+  },
+  {
+    "id": "15",
+    "category":"GERUNDS AND INFINITIVES",
+    "type": 1,
+    "type-des": "multi-choise",
+    "text": "Andrew hopes _____ [to move] to New York next year",
+    "options": ["to move", "moving","move","moves"],
+    "answer": "to move",
+    "explaniation": "'hope' requires the Infinitive"
+  }
+ 
+]
